@@ -1,11 +1,13 @@
 ---
 hero:
-  heading: " Duncan Graham"
+  heading: ''
   maxWidthPX: "652"
 seo:
   image: "/images/hero-2.jpg"
 
 ---
+**Duncan Graham**
+
 I'm a designer, artist, and writer. I'm focused on deepening my present moment awareness, figuring out what a life well lived entails, and documenting my process.
 
 **Consulting** 
